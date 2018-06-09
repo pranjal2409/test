@@ -1,13 +1,9 @@
 this
 is 
-sparta
+<<<<<<< HEAD
+spongebob
+squarepants
 dont
 mess
 with 
 us
-or
-else
-we 
-will
-delete 
-you
